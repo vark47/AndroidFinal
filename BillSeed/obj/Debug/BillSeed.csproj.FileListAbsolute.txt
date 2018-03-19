@@ -1,0 +1,9 @@
+C:\Users\Austin\source\repos\BillList\BillSeed\bin\Debug\BillSeed.exe.config
+C:\Users\Austin\source\repos\BillList\BillSeed\bin\Debug\BillSeed.exe
+C:\Users\Austin\source\repos\BillList\BillSeed\bin\Debug\BillSeed.pdb
+C:\Users\Austin\source\repos\BillList\BillSeed\bin\Debug\DAL.dll
+C:\Users\Austin\source\repos\BillList\BillSeed\bin\Debug\DAL.pdb
+C:\Users\Austin\source\repos\BillList\BillSeed\obj\Debug\BillSeed.csprojResolveAssemblyReference.cache
+C:\Users\Austin\source\repos\BillList\BillSeed\obj\Debug\BillSeed.csproj.CoreCompileInputs.cache
+C:\Users\Austin\source\repos\BillList\BillSeed\obj\Debug\BillSeed.exe
+C:\Users\Austin\source\repos\BillList\BillSeed\obj\Debug\BillSeed.pdb

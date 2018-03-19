@@ -1,0 +1,16 @@
+BillList.BillAdapter, BillList;md51d6815a7d7826468ff8cc8789dbc28a4.BillAdapter
+BillList.BillAdapter, BillList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d6815a7d7826468ff8cc8789dbc28a4.BillAdapter
+BillList.BillAdapter;md51d6815a7d7826468ff8cc8789dbc28a4.BillAdapter
+billlist.BillAdapter;md51d6815a7d7826468ff8cc8789dbc28a4.BillAdapter
+BillList.BillCreateActivity, BillList;md51d6815a7d7826468ff8cc8789dbc28a4.BillCreateActivity
+BillList.BillCreateActivity, BillList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d6815a7d7826468ff8cc8789dbc28a4.BillCreateActivity
+BillList.BillCreateActivity;md51d6815a7d7826468ff8cc8789dbc28a4.BillCreateActivity
+billlist.BillCreateActivity;md51d6815a7d7826468ff8cc8789dbc28a4.BillCreateActivity
+BillList.BillListActivity, BillList;md51d6815a7d7826468ff8cc8789dbc28a4.BillListActivity
+BillList.BillListActivity, BillList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d6815a7d7826468ff8cc8789dbc28a4.BillListActivity
+BillList.BillListActivity;md51d6815a7d7826468ff8cc8789dbc28a4.BillListActivity
+billlist.BillListActivity;md51d6815a7d7826468ff8cc8789dbc28a4.BillListActivity
+BillList.MainActivity, BillList;md51d6815a7d7826468ff8cc8789dbc28a4.MainActivity
+BillList.MainActivity, BillList, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md51d6815a7d7826468ff8cc8789dbc28a4.MainActivity
+BillList.MainActivity;md51d6815a7d7826468ff8cc8789dbc28a4.MainActivity
+billlist.MainActivity;md51d6815a7d7826468ff8cc8789dbc28a4.MainActivity
